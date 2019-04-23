@@ -9,4 +9,4 @@ More information on the sensor can be found here: https://www.amphenol-sensors.c
 
 I had two faulty sensors during this process, this cost me a lot of time as I couldn't understand why the code would not work.
 I would suggest anyone having trouble as I did to run a I2Cscanner script https://playground.arduino.cc/Main/I2cScanner/
-If this does not return any results then the sensor is eithe faulty or incorrectly wired.
+If this does not return any results then the sensor is either faulty or incorrectly wired.
